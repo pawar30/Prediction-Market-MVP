@@ -6,7 +6,7 @@ import {
   BarChart3, 
   Plus, 
   X, 
-  User, 
+ // User, 
   LogOut, 
   Eye, 
   Target,
